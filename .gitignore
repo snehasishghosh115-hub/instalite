@@ -1,0 +1,6 @@
+node_modules/
+.env
+prisma/generated/
+
+# Local PostgreSQL data
+.pgdata/
